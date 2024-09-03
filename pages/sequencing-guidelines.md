@@ -1,5 +1,5 @@
 ---
-title: Sequencing Guidelines
+title: Data quality and inclusion
 description: Introduction to sequencing guidelines
 ---
 
