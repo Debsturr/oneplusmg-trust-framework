@@ -4,17 +4,17 @@ subitems:
   - title: Sequencing guidelines
     image_url: /assets/img/section-icons/data-quality-v1.svg
     url: /sequencing-guidelines
-    description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG complaint
+    description: Sequence data generation and quality requirements for WGS/WES data to be labelled as 1+MG compliant
 
   - title: Data models & ontologies
     image_url: /assets/img/section-icons/data-governance-v1.svg 
     url: /data-models-ontologies
     description: 1+MG minimal data models for different use cases and recommendations on ontologies and data standards
 
-  - title: Technical Infrastructure
+  - title: Technical infrastructure
     image_url: /assets/img/section-icons/data-infrastructure-v1.svg
     url: /technical-infrastructure
-    description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node.
+    description: Stack of standards, open source references implementations, synthetic data and proof of concepts that can be used to establish a 1+MG node
     subitems:
       - title: "Data discovery"
         url: /data-discovery
